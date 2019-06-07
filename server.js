@@ -8,10 +8,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
 require("./app/routing/htmlRoutes.js")(app);
-
-
-// * REST
-
+require("./app/routing/apiRoutes")(app);
 
 
 
