@@ -17,7 +17,7 @@ var friends = [
     }, 
     {
       name: "Mr Rabbit",
-      photo: "https://en.wikipedia.org/wiki/Rabbit#/media/File:Oryctolagus_cuniculus_Rcdo.jpg",
+      photo: "https://upload.wikimedia.org/wikipedia/commons/1/1f/Oryctolagus_cuniculus_Rcdo.jpg",
       scores: [
         5,
         5,
